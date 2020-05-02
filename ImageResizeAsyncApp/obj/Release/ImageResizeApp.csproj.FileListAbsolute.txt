@@ -1,0 +1,10 @@
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\bin\Release\ImageResizeApp.exe.config
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\bin\Release\ImageResizeApp.exe
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\bin\Release\ImageResizeApp.pdb
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.csprojAssemblyReference.cache
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.ImageResizeAppForm.resources
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.Properties.Resources.resources
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.csproj.GenerateResource.cache
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.csproj.CoreCompileInputs.cache
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.exe
+D:\Study\programming\C_Sharp\File_and_Folder_Operation\ImageResizeApp\obj\Release\ImageResizeApp.pdb
