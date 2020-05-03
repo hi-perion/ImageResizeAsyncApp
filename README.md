@@ -1,24 +1,16 @@
-# GundamBBSについて
-このアプリはガンダムの名セリフを投稿し合う掲示板です<br>
+# ImageResizeAsyncAppについて
+このアプリはフォルダ内の画像ファイルを一括リサイズして<br>
+zipファイルにまとめて指定のフォルダに出力するアプリです。<br>
 
-# URL
-[https://gundam-bbs.herokuapp.com/](https://gundam-bbs.herokuapp.com/)<br>
+# ダウンロードURL
+[https://mega.nz/file/MI8DyIaR#piO1vj6aOD9opD8RqXsZAQ_Vk8ZbAtpLDff9C-Z57Qw](https://mega.nz/file/MI8DyIaR#piO1vj6aOD9opD8RqXsZAQ_Vk8ZbAtpLDff9C-Z57Qw)<br>
 
 # 開発環境
-ruby 2.4.5<br>
-rails 5.2.4.1<br>
+C# 7.0<br>
+Visual Studio 2017<br>
 
-# 実装した機能
-投稿機能<br>
-投稿編集機能<br>
-投稿一覧表示機能<br>
-投稿詳細表示機能<br>
-ユーザー登録機能<br>
-ユーザー編集機能<br>
-ログイン機能<br>
-画像ファイルのアップロード機能<br>
-自動更新機能<br>
+# 使い方
+同梱の使い方.txtを参照
 
 # アピールポイント
-JavaScriptのAjax通信を利用してチャットアプリのように<br>
-ページの再読み込みなしに新規投稿が追加表示されるようにしました
+非同期処理を使って複数枚の画像を同時にリサイズできるようにしました<br>
