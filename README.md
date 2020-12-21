@@ -7,7 +7,7 @@ C# 7.0<br>
 Visual Studio 2017<br>
 
 # ダウンロードURL
-[https://mega.nz/file/MI8DyIaR#piO1vj6aOD9opD8RqXsZAQ_Vk8ZbAtpLDff9C-Z57Qw](https://mega.nz/file/MI8DyIaR#piO1vj6aOD9opD8RqXsZAQ_Vk8ZbAtpLDff9C-Z57Qw)<br>
+[https://mega.nz/file/gJ0jAKAB#Ud4EbKt99NX6GALEkMKSbiCjvaFnQOLFIBb3NXyMzwQ](https://mega.nz/file/gJ0jAKAB#Ud4EbKt99NX6GALEkMKSbiCjvaFnQOLFIBb3NXyMzwQ)<br>
 
 # インストール方法
 ダウンロード後、適当なフォルダへ解凍してImageResizeApp.exeを実行してください<br>
